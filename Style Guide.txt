@@ -1,0 +1,28 @@
+COLORS
+------
+
+La elección de los colores se basa en una paleta que recuerde a la fauna animal relacionada con la Comunidad Valenciana.
+
+Body = linear-gradient(90deg, rgba(191,200,36,1) 40%, rgba(9,121,65,1) 100%);
+Header = rgb(227, 174, 41)
+Footer = rgb(227, 174, 41)
+nav = Black
+main = rgb(194, 146, 22)
+section = rgb(23, 67, 23)
+div = rgb(246, 190, 78) & White
+color FOR * = black & white
+
+FONTS
+-----
+
+a = 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+h1 = 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+h2 = 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+h3 = Verdana, Geneva, Tahoma, sans-serif
+
+p.1 = monospace
+
+p.2 = 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
